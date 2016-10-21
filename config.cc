@@ -1,5 +1,5 @@
 // CopyRight NewStone 2016
-// Author: hoddis(yutao_2006@126.com)
+// Author: hoddis(hoddisyu@qq.com)
 #include "redismq/config.h"
 
 DEFINE_string(redis_server_ip, "", "redissvr ip");

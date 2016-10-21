@@ -1,5 +1,5 @@
 // CopyRight NewStone 2016
-// Author: hoddis(yutao_2006@126.com)
+// Author: hoddis(hoddisyu@qq.com)
 #ifndef REDISMQ_REDIS_MQ_H_
 #define REDISMQ_REDIS_MQ_H_
 

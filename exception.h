@@ -1,7 +1,7 @@
 // Copyright (c) 2014 Luca Marturana. All rights reserved.
 // Licensed under Apache 2.0, see LICENSE for details
 // CopyRight NewStone 2016
-// Author: hoddis(yutao_2006@126.com)
+// Author: hoddis(hoddisyu@qq.com)
 
 #pragma once
 
